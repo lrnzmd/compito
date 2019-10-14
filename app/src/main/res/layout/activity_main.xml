@@ -26,7 +26,6 @@
             android:layout_gravity="center"
             android:fontFamily="@font/telex"
             android:text="CODING A VISION"
-            android:textAlignment="center"
             android:textSize="36sp" />
     </RelativeLayout>
 
